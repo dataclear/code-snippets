@@ -1,6 +1,7 @@
 Generates a SQL script to generate a local table variable and populate it based on the current selection.
 
 Given the input:
+
 ![Excel screenshot](https://github.com/dataclear/code-snippets/raw/main/excel/generate_sql/excel_gen_sql.png)
 
 Will generate output:
